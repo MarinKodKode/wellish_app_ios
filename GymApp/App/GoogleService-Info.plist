@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>87030309499-gd0sd2vfa0uc5pa7qrhrh226icg0iloi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.87030309499-gd0sd2vfa0uc5pa7qrhrh226icg0iloi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA8zYCgeSh7YRGIThzK36iRvrRN1Ib_bhU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>87030309499</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.manu.gymapp.GymApp</string>
+	<key>PROJECT_ID</key>
+	<string>wellish-ce0ed</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wellish-ce0ed.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:87030309499:ios:d18dc71883033b826c38de</string>
+	<key>DATABASE_URL</key>
+	<string>https://wellish-ce0ed-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
